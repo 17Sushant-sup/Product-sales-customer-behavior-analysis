@@ -21,6 +21,8 @@ The project uses a customer shopping behavior dataset containing information rel
 - Shopping patterns and preferences
 - Transaction-related information
 
+![Dataset](customer_shopping_behavior.csv)
+
 ## 3. Tools & Technologies
 
 The following tools and technologies are used in this project:
@@ -83,10 +85,7 @@ The Power BI dashboard provides an interactive view of customer shopping behavio
 
 **Dashboard Preview:**
 
-Add your Power BI dashboard screenshot here.
-
-Example:
-`![Dashboard Preview](dashboard.png)`
+![Dashboard Preview](dashboard.png)
 
 ## 6. Results & Insights
 
@@ -117,7 +116,7 @@ This project demonstrates practical knowledge and skills in:
 - Python Programming
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Pandas and NumPy
+- Pandas Library
 - SQL Query Writing
 - Database Management
 - Data Visualization
